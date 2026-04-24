@@ -1,112 +1,208 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180§ion=header&text=Hi,%20I'm%20Pallavi!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20DevOps%20Engineer%20|%20Building%20in%20Public&descAlignY=55&descSize=18)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer+🚀;Building+in+Public+💡;Linux+%7C+Docker+%7C+AWS+%7C+Kubernetes;CI%2FCD+%7C+Automation+⚡;Open+to+DevOps+%2F+Cloud+Roles+🌍)](https://git.io/typing-svg)
+# 👋 Hi, I'm Pallavi Sonawane
 
----
+### ☁️ Junior AWS & DevOps Engineer &nbsp;|&nbsp; .NET Developer &nbsp;|&nbsp; Cloud Enthusiast
 
-## 🚀 DevOps Learner | Building in Public
+<br/>
 
-💡 Turning concepts into real-world projects  
-📅 Documenting my **30-Day DevOps Journey**  
-🎯 Goal: Land a **DevOps / Cloud Engineer role in 2025**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pallavi%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavis117189)
+[![Gmail](https://img.shields.io/badge/Gmail-sonawanepallavi257-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonawanepallavi257@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-devopswithpallavi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopswithpallavi)
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Pune%2C_Maharashtra-India-FF6B35?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Junior_AWS_%26_DevOps_Roles-28a745?style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=devopswithpallavi&color=FF9900&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
 ## 🙋‍♀️ About Me
 
 ```yaml
-Name     : Pallavi
-Role     : Aspiring DevOps Engineer
-Location : Pune, India
-Focus    : DevOps | Cloud | Automation
-Status   : 💼 Open to Work
+╔══════════════════════════════════════════╗
+║  👤  name       : Pallavi Sonawane       ║
+║  💼  role       : Jr. AWS & DevOps Eng.  ║
+║  🎓  education  : MCA — CGPA 7.4         ║
+║  📍  location   : Pune, Maharashtra      ║
+╠══════════════════════════════════════════╣
+║  🔭  training   : Cloud & DevOps Bootcamp║
+║  🌱  learning   : Docker · Terraform     ║
+║  💡  passion    : Cloud Automation & IaC ║
+║  🚀  goal       : AWS / DevOps Role      ║
+║  🗣️  languages  : English · Hindi · MR   ║
+╚══════════════════════════════════════════╝
 ```
-
-💡 I believe in **learning by building and sharing in public**  
-🚀 Currently on a mission to complete a **30-Day DevOps Challenge**  
-📈 Consistently improving with hands-on projects and daily commits  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ DevOps & Tools
+### ☁️ AWS & Cloud Services
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### ⚙️ DevOps & Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### 🔧 Version Control & CI/CD
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+### 💻 Development
 
-## 📂 Featured Projects
-
-🔹 **Dockerized Application Deployment**  
-→ Built and deployed a containerized application using Docker  
-
-🔹 **CI/CD Pipeline with Jenkins**  
-→ Automated build and deployment workflow  
-
-🔹 **AWS Deployment Project** *(Coming Soon)*  
-→ Deploying scalable applications on AWS  
-
-📁 Explore more: https://github.com/devopswithpallavi
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 🔥 30-Day DevOps Challenge
+## 💼 Work Experience
 
-🚀 Learning DevOps step-by-step in public  
-📺 Following DevOps Zero to Hero series  
+### 🏢 .NET Developer — Infinity Techno Solution, Pune
+**Feb 2024 – Feb 2025**
 
-✔️ Daily commits  
-✔️ Hands-on labs  
-✔️ Real-world tools  
+- 🔐 Implemented **RBAC, data encryption & secure authentication** — security-first approach
+- ⚡ Optimized **DB queries & caching strategies** for measurable performance gains
+- 🔗 Seamlessly **integrated legacy systems** into the modern stack
+- 🤝 Delivered features in **Agile/Scrum** cross-functional teams
 
-| Week | Focus Area | Status |
-|------|-----------|--------|
-| Week 1 | DevOps + Linux + Git | 🔄 In Progress |
-| Week 2 | Docker + CI/CD | ⏳ Upcoming |
-| Week 3 | AWS | ⏳ Upcoming |
-| Week 4 | Kubernetes + Terraform | ⏳ Upcoming |
+### 📱 Android Developer Intern — Sunanda Infotech Pvt. Ltd., Pune
+**Feb 2023 – Jul 2023**
 
-📁 Daily logs: https://github.com/devopswithpallavi/30-days-devops-challenge
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devopswithpallavi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopswithpallavi&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopswithpallavi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🚀 Built & deployed a **full Android application** — design to production
+- 🔌 Integrated **RESTful APIs** with real-time data storage
+- 🎨 Designed **responsive XML UI** following modern Android guidelines
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Featured Projects
 
-💼 Open to **DevOps / Cloud Opportunities**  
-📩 Always open to collaboration and learning  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavis117189)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopswithpallavi)
+### 🏗️ AWS Solutions Architecture
+![AWS](https://img.shields.io/badge/Forage_×_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+Architected a **scalable, cost-optimized** cloud hosting solution for the official AWS Forage simulation.
+
+**Stack:** `EC2` `S3` `VPC` `IAM`
+
+✅ Cost-effective architecture design  
+✅ Security-first IAM policies  
+✅ High availability & fault tolerance
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Enterprise Web Application
+![.NET](https://img.shields.io/badge/Production-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+Production-grade web apps with security, performance & legacy system integration at the core.
+
+**Stack:** `ASP.NET` `C#` `SQL Server`
+
+✅ RBAC & data encryption  
+✅ Caching & query optimization  
+✅ Legacy system integration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Android Mobile App
+![Android](https://img.shields.io/badge/Deployed-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Full-lifecycle Android app with modern UI/UX, live data & user authentication.
+
+**Stack:** `Java` `REST APIs` `XML UI`
+
+✅ Real-time data & auth  
+✅ Modern Android UI/UX  
+✅ Full development lifecycle
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps Learning Lab
+![Status](https://img.shields.io/badge/Status-🔥_In_Progress-FF6B35?style=flat-square)
+
+Hands-on AWS & DevOps labs from Cloud & DevOps Mastery Bootcamp.
+
+**Stack:** `AWS` `Docker` `Terraform`
+
+🔄 CI/CD pipeline setup  
+🔄 Container orchestration  
+🔄 Infrastructure as Code
+
+</td>
+</tr>
+</table>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=devopswithpallavi&color=blueviolet&style=for-the-badge&label=Profile+Views)
+## 🏅 Certifications
 
-💬 *"Every expert was once a beginner. One commit a day keeps the self-doubt away!"*
+| 🎖️ | Certification | Issuer | Year |
+|:---:|:---|:---|:---:|
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS Solutions Architecture Job Simulation | Amazon Web Services × Forage | 2026 |
+| ![DevOps](https://img.shields.io/badge/DevOps-0052CC?style=flat-square&logo=devdotto&logoColor=white) | Cloud & DevOps Mastery Bootcamp | Exlearn Technologies | 2026 |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | C# & ASP.NET Development | Sabedor Software India | 2023 |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | SQL Workshop | Sabedor Software India | 2023 |
+| ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | Android Development Workshop | Bhujbal Knowledge City | 2023 |
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer)
+---
+
+## 📚 Learning Roadmap
+
+| Technology | Progress | Level |
+|:---|:---|:---:|
+| ☁️ AWS Core Services | `████████████████████░░░` | `90%` |
+| 🐳 Docker & Containers | `█████████████░░░░░░░░░░` | `65%` |
+| 🏗️ Terraform (IaC) | `██████████░░░░░░░░░░░░░` | `45%` |
+| 🔄 CI/CD Pipelines | `████████░░░░░░░░░░░░░░░` | `40%` |
+| ☸️ Kubernetes | `████░░░░░░░░░░░░░░░░░░░` | `20%` |
+
+---
+
+## 🌐 Let's Connect & Build Together!
+
+<div align="center">
+
+> *"Every cloud expert was once a beginner who refused to give up."*
+
+<br/>
+
+### 🚀 Actively Looking for Junior AWS / DevOps / Cloud Engineer Roles!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavis117189)
+[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonawanepallavi257@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopswithpallavi)
+
+<br/>
+
+---
+
+*Made with ❤️ & ☁️ from Pune, India 🇮🇳 · @devopswithpallavi*
+
+</div>
